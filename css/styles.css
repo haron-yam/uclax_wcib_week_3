@@ -29,7 +29,7 @@ body {
     font-size: 20px;
     border: 2px dotted green;
     width: 500px;
-    height: 1000px;
+    height: 1300px;
     margin: 100px;
     padding: 100px; }
   body ul:before {
@@ -42,7 +42,7 @@ body {
     background-color: #cfe8dc;
     border: 2px dotted green;
     width: 500px;
-    height: 1000px;
+    height: 1300px;
     margin: 100px;
     padding: 100px; }
   body ol:before {
