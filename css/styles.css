@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: "Lucida Console", Courier, monospace;
   background: url("../images/marble.jpg"); }
   body h1 {
     text-align: center;
@@ -10,22 +10,24 @@ body {
     display: flex;
     align-items: center; }
   body p {
+    color: green;
     font-style: italic;
     text-align: center;
-    font-size: 20px;
+    font-size: 25px;
     padding-left: 20px;
     padding-right: 20px;
     margin: 50px; }
   body h3 {
     color: green; }
-  body .ingredients {
+  body ul {
     background-color: #cfe8dc;
+    font-size: 20px;
     border: 2px dotted green;
     width: 400px;
     height: 600px;
     margin: 120px;
     padding: 100px; }
-  body .directions {
+  body ol {
     background-color: #cfe8dc;
     border: 2px dotted green;
     width: 400px;
